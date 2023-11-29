@@ -59,13 +59,16 @@ Cuaderno
 Kicad
 ![Captura de pantalla 2023-11-28 221238](https://github.com/Samitv77/Basureroautomatico/assets/146904463/f7b52543-24a2-4876-90b1-c939434a768c)
 
-#Esquematico PCB y PCB creada
+# Esquematico PCB y PCB creada
 Kicad
 
 ![Captura de pantalla 2023-11-28 221314](https://github.com/Samitv77/Basureroautomatico/assets/146904463/bc314822-979a-40ad-8f2e-4882df489571)
 Impresa![WhatsApp Image 2023-11-28 at 10 08 12 PM (2)](https://github.com/Samitv77/Basureroautomatico/assets/146904463/d0d00d23-b495-427d-b5df-12609003d19e)
 
 # Pruebas / Imagenes 
+
+# Conclusiones
+
 
 
 
