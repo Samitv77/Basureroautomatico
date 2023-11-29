@@ -44,7 +44,28 @@ Objetivos Generales
 ![Captura de pantalla 2023-11-28 214726](https://github.com/Samitv77/Basureroautomatico/assets/146904463/488b4c39-565b-41b0-827d-e9040625fbca)
 
 # Diseño: Caja Negra
+![Captura de pantalla 2023-11-28 215027](https://github.com/Samitv77/Basureroautomatico/assets/146904463/3ee514d4-0979-47f0-aff6-02c30d3810f5)
 [CAja_negra_diagrama (2).pdf](https://github.com/Samitv77/Basureroautomatico/files/13495587/CAja_negra_diagrama.2.pdf)
 
 # Diseño Diagrama Tecnologico 
+![Captura de pantalla 2023-11-28 220030](https://github.com/Samitv77/Basureroautomatico/assets/146904463/5a81fbe1-037c-4ab8-ad94-7109e5b8e338)
 [Diagrama Tecnologico.pdf](https://github.com/Samitv77/Basureroautomatico/files/13495593/Diagrama.Tecnologico.pdf)
+
+# Esquematico 
+Cuaderno
+![WhatsApp Image 2023-11-28 at 10 08 12 PM](https://github.com/Samitv77/Basureroautomatico/assets/146904463/916a5c5a-d875-4a84-8de7-be3ffd1aac4f)
+![WhatsApp Image 2023-11-28 at 10 08 12 PM (1)](https://github.com/Samitv77/Basureroautomatico/assets/146904463/9a87a8ea-4cd0-44d7-b8e3-1dc5fabc238a)
+
+Kicad:
+![Captura de pantalla 2023-11-28 221238](https://github.com/Samitv77/Basureroautomatico/assets/146904463/f7b52543-24a2-4876-90b1-c939434a768c)
+
+#Esquematico PCB y PCB creada
+Kicad
+![Captura de pantalla 2023-11-28 221314](https://github.com/Samitv77/Basureroautomatico/assets/146904463/8a9876e9-121d-4ee5-a7e4-a34f3e71f797)
+Impresa![WhatsApp Image 2023-11-28 at 10 08 12 PM (2)](https://github.com/Samitv77/Basureroautomatico/assets/146904463/d0d00d23-b495-427d-b5df-12609003d19e)
+
+# Pruebas / Imagenes 
+
+
+
+
