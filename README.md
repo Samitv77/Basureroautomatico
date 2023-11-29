@@ -63,7 +63,16 @@ Kicad
 Kicad
 
 ![Captura de pantalla 2023-11-28 221314](https://github.com/Samitv77/Basureroautomatico/assets/146904463/bc314822-979a-40ad-8f2e-4882df489571)
-Impresa![WhatsApp Image 2023-11-28 at 10 08 12 PM (2)](https://github.com/Samitv77/Basureroautomatico/assets/146904463/d0d00d23-b495-427d-b5df-12609003d19e)
+
+Impresa
+
+![WhatsApp Image 2023-11-28 at 10 08 12 PM (2)](https://github.com/Samitv77/Basureroautomatico/assets/146904463/d0d00d23-b495-427d-b5df-12609003d19e)
+
+Visor 3D
+
+![Captura de pantalla 2023-11-28 222827](https://github.com/Samitv77/Basureroautomatico/assets/146904463/8b822c1e-45b7-4246-8405-b12b9e0c7e70)
+![Captura de pantalla 2023-11-28 222856](https://github.com/Samitv77/Basureroautomatico/assets/146904463/a6ce9a61-640f-4d0c-aeaa-cb5e6de16066)
+
 
 # Pruebas / Imagenes 
 
