@@ -22,14 +22,14 @@ La última semana se reserva para la evaluación del prototipo y la recopilació
 El proyecto aborda de manera integral la gestión de residuos en entornos públicos, proponiendo una solución tecnológica innovadora que podría tener un impacto positivo en la eficiencia operativa y la reducción de la contaminación ambiental.
 
 
-#Problematica
+# Problematica
 En entornos urbanos y lugares con mucha gente, la gestión de residuos es un desafío. La acumulación desigual de basura afecta la estética, la salud pública y el medio ambiente. La recogida manual tradicional es ineficiente y crea problemas. Esto lo podemos observar acá y en cualquier país Latinoamericano, por ende, es necesario hacer soluciones de forma que reduzcan este problema. Se Propone un contenedor automático con tecnología ESP32 que detecta y abre automáticamente según el nivel de llenado. Esto mejora la eficiencia al asignar recursos según la demanda real. La tecnología no solo optimiza la recolección de basura, sino que también reduce la contaminación ambiental al minimizar la exposición de residuos al aire libre.
 Esta solución innovadora aborda los desafíos actuales de la gestión de residuos en lugares públicos, buscando una respuesta sostenible y tecnológica para mejorar la calidad ambiental en entornos urbanos con alta afluencia de personas.
 
-#Alcance
+# Alcance
 En fase, el proyecto delinea claramente su alcance, enfocándose en la implementación de un basurero automatizado. El objetivo principal es proporcionar a los usuarios una experiencia única, caracterizada por la facilidad de uso y accesibilidad universal. La incorporación de elementos visuales, como LEDs, se contempla para mejorar la interacción del usuario con el basurero y garantizar una gestión eficiente de los residuos.
 
-#Objetivos
+# Objetivos
 
 Objetivo Especifico
 •	Desarrollar e implementar un sistema automatizado de gestión de residuos mediante un contenedor de basura con tecnología ESP32 que optimice la recolección de residuos en áreas públicas, aumentando la eficiencia operativa y ayudando a reducir la contaminación ambiental.
@@ -40,11 +40,11 @@ Objetivos Generales
 •	Programe el sistema utilizando Thonny IDE con MicroPython, asegurándose de que el ESP32, los sensores y el actuador (servomotor) interactúen correctamente.
 •	Implemente un algoritmo de control que le permita abrir automáticamente el bote de basura cuando se detecte un nivel de llenado crítico, facilitando la recolección de residuos.
 
-#Impactos 
+# Impactos 
 ![Captura de pantalla 2023-11-28 214726](https://github.com/Samitv77/Basureroautomatico/assets/146904463/488b4c39-565b-41b0-827d-e9040625fbca)
 
-#Diseño: Caja Negra
+# Diseño: Caja Negra
 [CAja_negra_diagrama (2).pdf](https://github.com/Samitv77/Basureroautomatico/files/13495587/CAja_negra_diagrama.2.pdf)
 
-#Diseño Diagrama Tecnologico 
+# Diseño Diagrama Tecnologico 
 [Diagrama Tecnologico.pdf](https://github.com/Samitv77/Basureroautomatico/files/13495593/Diagrama.Tecnologico.pdf)
