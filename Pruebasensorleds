@@ -1,0 +1,42 @@
+from machine import Pin
+import time
+
+# Configura los pines del ESP32 que estás utilizando
+trig_pin = Pin(32, Pin.OUT)
+echo_pin = Pin(33, Pin.IN)
+led_verde = Pin(2, Pin.OUT)
+led_rojo = Pin(4, Pin.OUT)
+
+def measure_distance():
+    """Función para medir la distancia."""
+    trig_pin.off()
+    time.sleep_us(2)
+    trig_pin.on()
+    time.sleep_us(10)
+    trig_pin.off()
+     
+    while echo_pin.value() == 0:
+        pass
+    start = time.ticks_us()
+    
+    while echo_pin.value() == 1:
+        pass
+    end = time.ticks_us()
+    
+    duration = time.ticks_diff(end, start)
+    cm = (duration / 2) / 29.1
+    return cm
+    
+
+# Bucle principal
+while True:
+    distance = measure_distance()
+    print(distance)
+    if distance < 6:  # Ajusta este valor según la distancia de detección que desees
+        led_verde.off()
+        led_rojo.on()
+    else:
+        led_rojo.off()
+        led_verde.on()
+    time.sleep(0.1)
+    
