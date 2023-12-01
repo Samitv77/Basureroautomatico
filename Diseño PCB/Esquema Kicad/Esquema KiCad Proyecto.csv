@@ -1,0 +1,7 @@
+"Id";"Identificador";"Huella";"Cantidad";"Identificación";"Suministrador y ref";
+1;"J1,J3";"PinSocket_1x04_P2.54mm_Vertical";2;"Conn_01x04_Socket";;;
+2;"U2";"MODULE_ESP32_DEVKIT_V1";1;"ESP32-DEVKIT-V1";;;
+3;"D2,D1";"LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm";2;"LED";;;
+4;"J2";"BarrelJack_CUI_PJ-102AH_Horizontal";1;"Jack-DC";;;
+5;"M1";"PinHeader_1x03_P2.54mm_Vertical";1;"Motor_Servo";;;
+6;"R2,R1";"R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal";2;"R";;;

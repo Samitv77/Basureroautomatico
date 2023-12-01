@@ -1,0 +1,75 @@
+Cmp-Mod V01 Created by PcbNew   date = 1/12/2023 1:49:12 a. m.
+
+BeginCmp
+TimeStamp = 16599880-9ce5-4d66-a622-c7a04dfd6759
+Path = /decbcd4f-eb6e-4dc9-9b6d-2358010e2719
+Reference = J1;
+ValeurCmp = Conn_01x04_Socket;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 1c9b67a3-87dd-4149-9603-6a350dc7bff7
+Path = /83ce5a09-8fc2-4031-94a8-2d0031e51ce0
+Reference = U2;
+ValeurCmp = ESP32-DEVKIT-V1;
+IdModule  = Esp32:MODULE_ESP32_DEVKIT_V1;
+EndCmp
+
+BeginCmp
+TimeStamp = 39bfcb80-ca78-4f81-9dbc-eccfb9fd1236
+Path = /97933a11-9715-457e-8d83-85a991c1a1ed
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 4207fb56-ad33-49c4-90e2-65aae5439123
+Path = /6b36e5f3-5a5d-4ca9-b867-3b9dfd3f8c52
+Reference = J2;
+ValeurCmp = Jack-DC;
+IdModule  = Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 84e0e923-acf6-4649-a714-c8f4f4b7ef92
+Path = /3b07e4ab-e6ac-4ca2-8ce2-2f8fd814c8bf
+Reference = M1;
+ValeurCmp = Motor_Servo;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = ba5accfc-d969-4941-9764-abdb78f2b053
+Path = /381762e3-6f09-4bde-8001-0e02617dcb74
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = beaf6279-2628-43c2-bf17-cb41ae330d14
+Path = /b2dd558a-f029-403c-959f-f94dbf6bc978
+Reference = J3;
+ValeurCmp = Conn_01x04_Socket;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = e27f0bba-5428-4ee6-8ff3-99f2ab0a8f99
+Path = /7be54efb-89c1-4b43-b65c-6d95c76a8b40
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = eef42044-d4bf-48f7-a475-7638b8f43ab2
+Path = /fab362aa-f7a8-4ffa-a54f-a3e3be96dc4f
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal;
+EndCmp
+
+EndListe

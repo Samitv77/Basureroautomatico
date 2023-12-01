@@ -1,0 +1,12 @@
+Info: Archivo de posicionamiento del lado frontal: 'C:\Users\samit\OneDrive\Documentos\Esquema KiCad Proyecto\Esquema KiCad Proyecto-top.pos'.
+Info: Número de componentes: 9.
+Info: Archivo de posicionamiento del lado trasero: 'C:\Users\samit\OneDrive\Documentos\Esquema KiCad Proyecto\Esquema KiCad Proyecto-bottom.pos'.
+Info: Número de componentes: 0.
+Info: Número total de componentes: 9.
+Info: Archivo creado satisfactoriamente.
+Info: Archivo de posicionamiento del lado frontal: 'C:\Users\samit\OneDrive\Documentos\Esquema KiCad Proyecto\Esquema KiCad Proyecto-top.pos'.
+Info: Número de componentes: 9.
+Info: Archivo de posicionamiento del lado trasero: 'C:\Users\samit\OneDrive\Documentos\Esquema KiCad Proyecto\Esquema KiCad Proyecto-bottom.pos'.
+Info: Número de componentes: 0.
+Info: Número total de componentes: 9.
+Info: Archivo creado satisfactoriamente.
