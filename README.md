@@ -74,11 +74,16 @@ Visor 3D
 ![Captura de pantalla 2023-11-28 222856](https://github.com/Samitv77/Basureroautomatico/assets/146904463/a6ce9a61-640f-4d0c-aeaa-cb5e6de16066)
 
 
-# Pruebas / Imagenes 
-
 # Conclusiones
 
+Este proyecto tiene varios puntos a favor:
+1.	La introducción de un sistema automatizado de gestión de residuos: aborda directamente la problemática de la acumulación descontrolada. Al incorporar el sensor ultrasónico y el servomotor, se logra una recolección más precisa y oportuna, evitando desbordamientos y ayudando a la preservación del entorno.
 
+2.	La elección del ESP32 como plataforma central: destaca la importancia de la versatilidad y programabilidad en la implementación de soluciones tecnológicas. Esta elección no solo facilita la interacción sin problemas entre los componentes del sistema, sino que también permite adaptarse a futuras mejoras y actualizaciones.
+
+3.	Su funcionalidad técnica: este cubo de basura automático se integra perfectamente en la visión de entornos urbanos más limpios y sostenibles. La combinación de tecnología y conciencia ambiental refuerza la idea de que la innovación puede desempeñar un papel clave en la transformación positiva de nuestras comunidades.
+
+El proyecto no solo  propone una solución eficiente para el manejo de residuos en espacios públicos, sino que también se presenta como una idea útil de cómo la tecnología, cuando se aplica de manera inteligente, puede contribuir significativamente a la construcción de un futuro más sostenible y saludable.
 
 
 
