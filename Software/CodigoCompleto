@@ -1,0 +1,71 @@
+from machine import Pin, PWM
+import time
+
+# Definición de pines y variables
+servoMain = PWM(Pin(5), freq=50) 
+trigpin1 = Pin(14, Pin.OUT)
+echopin1 = Pin(12, Pin.IN)
+trigpin2 = Pin(32, Pin.OUT)
+echopin2 = Pin(33, Pin.IN)
+led_verde = Pin(2, Pin.OUT)
+led_rojo = Pin(4, Pin.OUT)
+distance1 = 0
+distance2 = 0
+duration = 0.0
+cm = 0.0
+
+def set_servo_angle(angulo):
+    """Función para ajustar el ángulo del servo."""
+    if angulo >= 0 and angulo <= 180:
+         #nanosegundos
+        duty = ((12.346*angulo**2 + 7777.8*angulo + 700000))
+        #milisegundos
+        duty /= 1000000
+        #bits
+        duty = int(duty*1023/20)
+        servoMain.duty(duty) 
+
+def measure_distance(trigpin, echopin):
+    """Función para medir la distancia."""
+    global distance1, distance2, duration, cm
+    trigpin.off()
+    time.sleep_ms(2)
+    trigpin.on()
+    time.sleep_us(10)
+    trigpin.off()
+     
+    while echopin.value() == 0:
+        pass
+    start = time.ticks_us()
+    
+    while echopin.value() == 1:
+        pass
+    end = time.ticks_us()
+    
+    duration = time.ticks_diff(end, start)
+    cm = (duration / 2) / 29.1
+    if trigpin == trigpin1:
+        distance1 = cm
+    else:
+        distance2 = cm
+    print("sensorservo",distance1,"sensorleds", distance2)
+
+# Bucle principal
+while True:
+    measure_distance(trigpin1, echopin1)
+    if distance1 < 40:
+        set_servo_angle(180) 
+        time.sleep_ms(5000)
+    else:
+        set_servo_angle(0)
+        time.sleep_ms(200)
+        
+    measure_distance(trigpin2, echopin2)
+    if distance2 < 8:  # Ajusta este valor según la distancia de detección que desees
+        led_verde.off()
+        led_rojo.on()
+    else:
+        led_rojo.off()
+        led_verde.on()
+    time.sleep(0.1)
+    
